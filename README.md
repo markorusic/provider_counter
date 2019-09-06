@@ -1,4 +1,4 @@
-# provider_example
+# provider_counter
 
 A new Flutter project.
 

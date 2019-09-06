@@ -1,4 +1,4 @@
-package com.example.provider_example;
+package com.example.provider_counter;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
